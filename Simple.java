@@ -1,4 +1,4 @@
 class Simple {
 	public static void main(String args[]){
-		system.ot.println("Welcome to MyWorld");}
+		system.ot.println("Welcome to India");}
 }
