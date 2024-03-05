@@ -1,4 +1,4 @@
 class Simple {
-	public static void main(String args[]){
-		system.out.println("Welcome to My India");}
+	public static void main(String[] args){
+		System.out.println("Welcome to My India");}
 }
